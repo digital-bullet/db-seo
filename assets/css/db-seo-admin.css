@@ -1,0 +1,30 @@
+/**
+ * DB SEO Admin Styles
+ *
+ * CSS styles for the DB SEO admin interface.
+ */
+
+/* Settings page styles */
+.db-seo-settings-page {
+    max-width: 800px;
+}
+
+.db-seo-settings-page .form-table th {
+    width: 200px;
+}
+
+/* Meta box styles */
+.db-seo-meta-box input[type="text"],
+.db-seo-meta-box textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.db-seo-upload-button {
+    margin-top: 5px !important;
+}
+
+.db-seo-image-preview {
+    max-width: 300px;
+    margin-top: 10px;
+} 

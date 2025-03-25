@@ -1,0 +1,16 @@
+DB SEO - Lightweight SEO Plugin
+============================
+
+This is a placeholder file for the banner image. 
+An actual banner image should be a 772x250 PNG file placed in this directory.
+Common banner design would include the plugin name, a tagline, and minimal visual elements
+that match the plugin's branding.
+
+Recommended to create a banner.png file with the following properties:
+- Size: 772x250 pixels
+- File format: PNG
+- Content: Plugin name, tagline, and visual elements
+
+For WordPress.org plugin repository, additional image sizes would be:
+- banner-772x250.png (regular banner)
+- banner-1544x500.png (retina banner) 
